@@ -17,4 +17,19 @@ for value in newLine:
 
 statement = "Nice to meet you {0}. I am {1}".format(name, machine)
 print(statement)
- 
+
+a = "  Hello World "
+print(a.strip())
+print(len(a))
+
+b = "New string"
+print(b.upper())
+
+c = "ONE MORE STRING"
+print(c.lower())
+
+d = "J am Harry"
+print(d.replace("J", "I"))
+
+e = "Python, is, awesome"
+print(e.split(","))
