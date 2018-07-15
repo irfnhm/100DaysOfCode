@@ -4,10 +4,7 @@ arr = [1, 2, 3, 4, 5]
 
 def rotateByOne(arr, n):
     temp = arr[0]
-    for i in range(n):
-        #arr.append(i_+ 1)
-
-    arr[i] = temp
+        #do something here
 
 
 def rotate(arr, d, n):
